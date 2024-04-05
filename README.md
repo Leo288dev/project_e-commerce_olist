@@ -61,6 +61,10 @@ Para rodar os testes, acesse o link abaixo
 
 https://lookerstudio.google.com/reporting/82ccd1fe-3b96-423a-991c-ce3e498a1418
 
+## Feedback 🎙️
+
+Se você tiver algum feedback, por favor nos deixe saber por meio de rpa.leopoldopereira@gmail.com
+
 
 
 
