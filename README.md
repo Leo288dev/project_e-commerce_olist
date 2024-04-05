@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Stacks used 🛠️
 
-**Front-end:** Looker Stugio - Google
+**Front-end:** Looker Studio - Google
 
 **Back-end:** Python, Pandas
 
