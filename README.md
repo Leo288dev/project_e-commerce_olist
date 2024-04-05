@@ -47,3 +47,10 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ![Tela DashBoard](https://github.com/Leo288dev/project_e-commerce_olist/blob/main/Others/print_projeto.jpg)
 
+## Stacks used 🛠️
+
+**Front-end:** Looker Studio - Google
+
+**Back-end:** Python, Pandas
+
+
